@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**harshitjangra/harshitjangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**# Hey, I'm Harshit 👋
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (AI/ML) student interested in programming and exploring how technology works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning Python and C.
+- Exploring AI and Machine Learning.
+- Practicing problem-solving and building small projects.
+- Always curious to learn something new.
+
+### Languages & Tools
+- C
+- Python
+- Python
+
+### A little about me
+I enjoy experimenting with code, learning from mistakes, and turning ideas into working projects.
+
+Thanks for stopping by! :)
