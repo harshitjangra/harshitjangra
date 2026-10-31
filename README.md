@@ -2,7 +2,7 @@
 
 Hey, I'm Harshit 👋
 
-I'm a B.Tech CSE (AI/ML) student interested in programming and exploring how technology works.
+I'm a B.Tech (CSE) student interested in programming and exploring how technology works.
 
 - Currently learning Python and C.
 - Exploring AI
@@ -12,7 +12,7 @@ I'm a B.Tech CSE (AI/ML) student interested in programming and exploring how tec
 ### Languages & Tools
 - C
 - Python
-- Python
+- HTML
 
 ### A little about me
 I enjoy experimenting with code, learning from mistakes, and turning ideas into working projects.
